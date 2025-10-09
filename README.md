@@ -1,7 +1,7 @@
 # Hello everyone, I'm Cristian.
 <p align="center"><img src="code-python.png" alt="portada"></p>
 
-With more than 15 years of experience in the technology industry, I am currently working as a Python Developer, using technologies such as DRF, PostgreSQL and Docker, among others.
+With more than 20 years of experience in the technology industry, I am currently working as a Python Developer, using technologies such as DRF, PostgreSQL and Docker, among others.
 
 I enjoy solving problems and I have a passion for creation. I strive for my work to have a positive impact on people's lives and contribute to innovation.
 
